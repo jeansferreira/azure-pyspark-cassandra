@@ -1,0 +1,4 @@
+Cassandra-driver 
+prettytable
+requests
+pyopenssl
