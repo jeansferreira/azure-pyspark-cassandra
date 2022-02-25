@@ -5,6 +5,6 @@
 config = {
          'username': 'cloud-cassandra-storage',
          'password': '',
-         'contactPoint': 'cloud-cassandra-storage.cassandra.cosmos.azure.com',
+         'contactPoint': '',
          'port':'10350'
          }
